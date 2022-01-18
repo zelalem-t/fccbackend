@@ -1,6 +1,7 @@
 {
-	"author":"Zelalem Tadesse",
+		"author": "Zelalem Tadesse",
 	"name": "fcc-learn-npm-package-json",
+  "keywords":["freecodecamp","backend","practice"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -11,5 +12,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"description": "Free code camp training on back end",
+  "license":"BSD",
+  "version":"1.0.0"
 }
